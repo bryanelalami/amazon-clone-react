@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bryanelalami/react-amazon-clone/static/css/main.c914ff8c.chunk.css",
+    "main.js": "/bryanelalami/react-amazon-clone/static/js/main.eefcd682.chunk.js",
+    "main.js.map": "/bryanelalami/react-amazon-clone/static/js/main.eefcd682.chunk.js.map",
+    "runtime-main.js": "/bryanelalami/react-amazon-clone/static/js/runtime-main.c9f1001c.js",
+    "runtime-main.js.map": "/bryanelalami/react-amazon-clone/static/js/runtime-main.c9f1001c.js.map",
+    "static/js/2.5ffb37c1.chunk.js": "/bryanelalami/react-amazon-clone/static/js/2.5ffb37c1.chunk.js",
+    "static/js/2.5ffb37c1.chunk.js.map": "/bryanelalami/react-amazon-clone/static/js/2.5ffb37c1.chunk.js.map",
+    "index.html": "/bryanelalami/react-amazon-clone/index.html",
+    "precache-manifest.b1a03e50ba3c31470997b78431536fac.js": "/bryanelalami/react-amazon-clone/precache-manifest.b1a03e50ba3c31470997b78431536fac.js",
+    "service-worker.js": "/bryanelalami/react-amazon-clone/service-worker.js",
+    "static/css/main.c914ff8c.chunk.css.map": "/bryanelalami/react-amazon-clone/static/css/main.c914ff8c.chunk.css.map",
+    "static/js/2.5ffb37c1.chunk.js.LICENSE.txt": "/bryanelalami/react-amazon-clone/static/js/2.5ffb37c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f1001c.js",
+    "static/js/2.5ffb37c1.chunk.js",
+    "static/css/main.c914ff8c.chunk.css",
+    "static/js/main.eefcd682.chunk.js"
+  ]
+}
